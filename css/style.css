@@ -54,7 +54,7 @@ body {
     animation-delay: .8s;
 }
 
-.greetings>span:nth-child(6) {
+/* .greetings>span:nth-child(6) {
     animation-delay: .10s;
 }
 
@@ -80,7 +80,7 @@ body {
 
 .greetings>span:nth-child(12) {
     animation-delay: .22s;
-}
+} */
 
 .description {
     font-size: 1.5rem;
@@ -93,7 +93,8 @@ body {
     width: 180px;
     height: 100px;
     position: absolute;
-    top: 75%;
+    top: 85%;
+    left: 35%;
     background: #000000;
     transform-origin: right bottom;
     transition: 1s;
